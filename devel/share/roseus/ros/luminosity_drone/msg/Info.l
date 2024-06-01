@@ -1,0 +1,1 @@
+/home/abhishek/catkin_ws/devel/.private/luminosity_drone/share/roseus/ros/luminosity_drone/msg/Info.l

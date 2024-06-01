@@ -1,0 +1,1 @@
+/home/abhishek/catkin_ws/devel/.private/luminosity_drone/share/luminosity_drone/cmake/luminosity_droneConfig.cmake
